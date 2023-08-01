@@ -22,6 +22,13 @@ nav{
 
 }
 
+nav img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5%;
+    margin-left: 1rem;
+}
+
 nav>ul{
     padding: 1px;
     list-style-type: none;
